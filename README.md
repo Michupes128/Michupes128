@@ -1,7 +1,7 @@
-I'm Michupes128
-I am not good at coding
-Learning Python
-I'll add the stuff I like to this list afterwards
+I'm Michupes128,
+I am not good at coding,
+learning Python.
+I'll add the stuff I like to this list afterwards.
 
 
 welcome = "Hello world"
